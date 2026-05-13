@@ -1,4 +1,4 @@
-## Hi 👋 Alexis here
+## Hi! Alexis here 👋
 
 🌱 I'm always building tools and solutions, check out my tiny tools page [➜ go to page](https://alexxsanio-api.vercel.app)    
 🫧 Check out my kaggle profile! [➜ go to kaggle](https://www.kaggle.com/tianyimasf/code)    
