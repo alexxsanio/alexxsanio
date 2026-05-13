@@ -2,6 +2,7 @@
 
 🌱 I'm always building tools and solutions, check out my tiny tools page [➜ go to page](https://alexxsanio-api.vercel.app)    
 🫧 Check out my kaggle profile! [➜ go to kaggle](https://www.kaggle.com/tianyimasf/code)
+👯 Fun fact: I've been programming since 2016! I first started programming from taking a university class on introduction to computer science. 
 <!--
 **alexxsanio/alexxsanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
