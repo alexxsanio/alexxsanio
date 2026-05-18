@@ -1,6 +1,6 @@
 ## Hi! Alexis here 👋
 
-- 🌱 I'm always building tools and solutions, check out my tiny tools page [➜ go to page](https://alexxsanio-api.vercel.app)[(here is the source code if the website is currently down. I promise it works!!)](https://github.com/alexxsanio/alexxsanio-api)
+- 🌱 I'm always building tools and solutions, check out my tiny tools page [➜ go to page](https://alexxsanio-api.vercel.app)[ (here is the source code if the website is currently down. I promise it works!!)](https://github.com/alexxsanio/alexxsanio-api)
 - 🫧 Check out my kaggle profile! [➜ go to kaggle](https://www.kaggle.com/tianyimasf/code)    
 - 📫 Check out my personal blog! [➜ go to blog](https://alexxsanio.github.io)     
 - 👯 Fun fact: I've been programming since 2016! I first started programming from taking a university class on introduction to computer science. 
