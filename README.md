@@ -1,8 +1,8 @@
 ## Hi! Alexis here 👋
 
-- 📜 Portfolio [➜ go to page](https://alexxsanio.github.io/portfolio/)
-- 🗂️ Kaggle [➜ go to kaggle](https://www.kaggle.com/tianyimasf/code)    
-- 📖 Blog [➜ go to blog](https://alexxsanio.github.io)     
+- 📜 My portfolio [➜ go to page](https://alexxsanio.github.io/portfolio/)
+- 🗂️ My kaggle page [➜ go to kaggle](https://www.kaggle.com/tianyimasf/code)    
+- 📖 Personal blog [➜ go to blog](https://alexxsanio.github.io)     
 - Fun fact: I've been programming since 2016 and I first started programming from taking a university class on introduction to computer science. 
 <!--
 **alexxsanio/alexxsanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
