@@ -1,9 +1,9 @@
 ## Hi! Alexis here 👋
 
-- 🌱 I'm always building tools and solutions, check out my tiny tools page [➜ go to page](https://alexxsanio-api.vercel.app)[ (here is the source code if the website is currently down.)](https://github.com/alexxsanio/alexxsanio-api)
-- 🫧 Check out my kaggle profile! [➜ go to kaggle](https://www.kaggle.com/tianyimasf/code)    
-- 📫 Check out my personal blog! [➜ go to blog](https://alexxsanio.github.io)     
-- 👯 Fun fact: I've been programming since 2016! I first started programming from taking a university class on introduction to computer science. 
+- Portfolio [➜ go to page](https://alexxsanio.github.io/portfolio/)
+- Kaggle [➜ go to kaggle](https://www.kaggle.com/tianyimasf/code)    
+- Blog [➜ go to blog](https://alexxsanio.github.io)     
+- 👯 Fun fact: I've been programming since 2016 and I first started programming from taking a university class on introduction to computer science. 
 <!--
 **alexxsanio/alexxsanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
