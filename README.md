@@ -1,4 +1,4 @@
-## Hi! Ana here 👋
+## Hi! Ana here
 
 - 📜 [Portfolio](https://alexxsanio.github.io/portfolio/)   | [🖋️ Writings](https://substack.com/@anamaglob)
 - I've been programming since 2016 and I first started programming from taking a university class on introduction to computer science. I've worked as a software engineer for a year, and I've been studying Applied Mathematics @CU Boulder. 
