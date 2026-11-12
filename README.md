@@ -1,8 +1,7 @@
-## Hi! Alexis here 👋
+## Hi! Ana here 👋
 
-- 📜 [My portfolio](https://alexxsanio.github.io/portfolio/)
-- 🗂️ [My kaggle page](https://www.kaggle.com/tianyimasf/code)     
-- Fun fact: I've been programming since 2016 and I first started programming from taking a university class on introduction to computer science. 
+- 📜 [My portfolio](https://alexxsanio.github.io/portfolio/)    
+- I've been programming since 2016 and I first started programming from taking a university class on introduction to computer science. I've worked as a software engineer for a year, and I've been studying Applied Mathematics @CU Boulder. 
 <!--
 **alexxsanio/alexxsanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
